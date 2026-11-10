@@ -1,0 +1,21 @@
+{
+  "chainId": 99901,
+  "block": 3706484,
+  "registry": "0xf1e2fa75422f889e565f3142bdbf60b28dce2aa7",
+  "addresses": {
+    "factory": "0x38d3ef3a06d18fa3286fb5deafe611be725fcd15",
+    "router": "0xc6e9a8e1a99023b67067b8a3605403b8d7b3a157",
+    "lens": "0xb4c202910c40c3a83f6c55683460790aaec487d4",
+    "quoteRegistry": "0x91756e3174d58482fbe59e1162573a69519c60eb",
+    "protocolVault": "0x775f596b9d78addc48caf7fc5316d79d2d4fa68e",
+    "feeMarket": "0xdbb80c888f5653b24918711fa72c03f049289dd7",
+    "routeFiller": "0x458657cde163dc8f6a633a6efd443a2aa4714b51",
+    "buybackFiller": "0xd679c6d3946887a88a43787a9a957b96dc1598e6",
+    "montra": "0x063f7cc5339f92a5fd7baf3d22233044fda1f327",
+    "poolManager": "0xe2e105d3f7209a9da11f83ccf3e7398a753823f1",
+    "universalRouter": "0xa13f7611115752deb2b13813bdde16a5073e4b45",
+    "permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+    "quoter": "0x379f556c5a748bd7cc9baf0f7a344094ac1814f5",
+    "gatewayRouter": "0x61ebbc3a29f1970af2ce862ba9c5364832e14d17"
+  }
+}
